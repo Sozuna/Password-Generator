@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  background-color:darkcyan;
+  background-color:darkgoldenrod;
 }
 
 .wrapper {
@@ -19,7 +19,7 @@ header {
 }
 
 .card {
-  background-color:skyblue;
+  background-color:gold;
   border-radius: 5px;
   border-width: 1px;
   box-shadow:black;
